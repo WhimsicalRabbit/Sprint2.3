@@ -1,0 +1,15 @@
+{
+  "name": "sprint2.3",
+  "version": "1.0.0",
+  "description": "Sprint 2.3 Memoize function",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Engels Patiarroyo",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.7.0"
+  }
+}
